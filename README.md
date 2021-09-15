@@ -21,8 +21,7 @@ Here are some ideas to get you started:
   <a href="https://github.com/thiagopcdev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagopcdev&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagopcdev&layout=compact&langs_count=7&theme=gotham"/>
-</div>
-   
+</div>  
   ##
  
 <div style="display: inline_block"><br>
@@ -33,7 +32,6 @@ Here are some ideas to get you started:
     <img align="center" alt="ygor-React" height="30" width="80" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
     <img align="center" alt="ygor-React" height="30" width="180" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
 </div>
-   
   ##
  
 <div>
