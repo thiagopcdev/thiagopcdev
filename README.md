@@ -28,7 +28,7 @@ Here are some ideas to get you started:
     <img align="center" alt="ygor-React" height="30" width="80" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
     <img align="center" alt="ygor-React" height="30" width="180" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
 </div>
-## <div>
+<div>
  
   ![Snake animation](https://github.com/thiagopcdev/thiagopcdev/blob/output/github-contribution-grid-snake.svg)
  
