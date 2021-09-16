@@ -42,3 +42,11 @@ Here are some ideas to get you started:
   ![Snake animation](https://github.com/thiagopcdev/thiagopcdev/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+<div> 
+    <a href="https://www.linkedin.com/in/thiagopcdev/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ <!--
+    <a href="" target="_blank"><img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank"></a> 
+    <a href="" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <a href="" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" target="_blank"></a>
+-->
+</div>
