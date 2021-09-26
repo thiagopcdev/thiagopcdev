@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
  <div>
   <a href="https://github.com/thiagopcdev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagopcdev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagopcdev&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagopcdev&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagopcdev&layout=compact&langs_count=7&theme=dark">
 </div>
  
   #### Linguagens e Ferramentas
@@ -30,13 +30,13 @@ Here are some ideas to get you started:
   <a href="https://redux.js.org/"><img align="center" alt="Redux" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/redux.svg"></a>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="MySql" height="60" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+  <img align="center" alt="MySql" height="60" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="SqlServer" height="40" width="60" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg">
-  <img align="center" alt="Git" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
-  <img align="center" alt="GitHub" height="30" width="40" src="https://icongr.am/devicon/github-original-wordmark.svg" />
-  <img align="center" alt="NPM" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
-  <img align="center" alt="Yarn" height="35" width="35" src="https://cdn.worldvectorlogo.com/logos/yarn.svg" />
- <!-- <img align="center" alt="NodeJS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" /> -->
+  <img align="center" alt="Git" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg">
+  <img align="center" alt="GitHub" height="30" width="40" src="https://icongr.am/devicon/github-original-wordmark.svg">
+  <img align="center" alt="NPM" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg">
+  <img align="center" alt="Yarn" height="35" width="35" src="https://cdn.worldvectorlogo.com/logos/yarn.svg">
+ <!-- <img align="center" alt="NodeJS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"> -->
 </div>
 <div>
  
