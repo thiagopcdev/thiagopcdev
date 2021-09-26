@@ -24,18 +24,18 @@ Here are some ideas to get you started:
   #### Linguagens e Ferramentas
   
 <div style="display: inline_block">
-   <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a>
+   <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank" rel="noopener"><img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a>
   <!--<img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> -->
-   <a href="https://reactjs.org/"><img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></a>
-  <a href="https://redux.js.org/"><img align="center" alt="Redux" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/redux.svg"></a>
- <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"> <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"><img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>
-   <a href="https://www.mysql.com/"><img align="center" alt="MySql" height="60" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"></a>
-   <a href="https://redux.js.org/"><img align="center" alt="SqlServer" height="40" width="60" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"></a>
+   <a href="https://reactjs.org/" target="_blank" rel="noopener"><img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></a>
+  <a href="https://redux.js.org/" target="_blank" rel="noopener"><img align="center" alt="Redux" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/redux.svg"></a>
+ <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank" rel="noopener"> <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank" rel="noopener"><img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>
+   <a href="https://www.mysql.com/" target="_blank" rel="noopener"><img align="center" alt="MySql" height="60" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"></a>
+   <a href="https://redux.js.org/" target="_blank" rel="noopener"><img align="center" alt="SqlServer" height="40" width="60" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"></a>
    <a href="https://git-scm.com/"><img align="center" alt="Git" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg"></a>
-   <a href="https://github.com/"><img align="center" alt="GitHub" height="30" width="40" src="https://icongr.am/devicon/github-original-wordmark.svg"></a>
+   <a href="https://github.com/" target="_blank" rel="noopener"><img align="center" alt="GitHub" height="30" width="40" src="https://icongr.am/devicon/github-original-wordmark.svg"></a>
    <a href="https://www.npmjs.com/"><img align="center" alt="NPM" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"></a>
-   <a href="https://yarnpkg.com/"><img align="center" alt="Yarn" height="35" width="35" src="https://cdn.worldvectorlogo.com/logos/yarn.svg"></a>
+   <a href="https://yarnpkg.com/" target="_blank" rel="noopener"><img align="center" alt="Yarn" height="35" width="35" src="https://cdn.worldvectorlogo.com/logos/yarn.svg"></a>
  <!-- <img align="center" alt="NodeJS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"> -->
 </div>
 <div>
@@ -44,7 +44,7 @@ Here are some ideas to get you started:
  
 </div>
 <div> 
-    <a href="https://www.linkedin.com/in/thiagopcdev/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" rel=”noopener”></a>
+    <a href="https://www.linkedin.com/in/thiagopcdev/" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
  <!--
     <a href="" target="_blank"><img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank"></a> 
     <a href="" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
