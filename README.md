@@ -35,7 +35,7 @@ Here are some ideas to get you started:
    <a href="https://git-scm.com/"><img align="center" alt="Git" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg"></a>
    <a href="https://github.com/" target="_blank" rel="noopener"><img align="center" alt="GitHub" height="30" width="40" src="https://icongr.am/devicon/github-original-wordmark.svg"></a>
    <a href="https://www.npmjs.com/"><img align="center" alt="NPM" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"></a>
-   <a href="https://yarnpkg.com/" target="_blank" rel="noopener"><img align="center" alt="Yarn" height="35" width="35" src="https://cdn.worldvectorlogo.com/logos/yarn.svg" target="_blank"></a>
+   <a href="https://yarnpkg.com/" target="_blank" rel="noopener"><img align="center" alt="Yarn" height="35" width="35" src="https://cdn.worldvectorlogo.com/logos/yarn.svg"></a>
  <!-- <img align="center" alt="NodeJS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"> -->
 </div>
 <div>
