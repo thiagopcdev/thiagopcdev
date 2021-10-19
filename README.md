@@ -17,11 +17,10 @@ Here are some ideas to get you started:
 
  <div>
   <a href="https://github.com/thiagopcdev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagopcdev&count_private=true&show_icons=true&theme=dark">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagopcdev&count_private=true&show_icons=true&theme=dark&include_all_commits=true">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagopcdev&layout=compact&langs_count=7&theme=dark">
 </div>
  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagopcdev&count_private=true&show_icons=true&theme=dark)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagopcdev&layout=compact)](https://github.com/thiagopcdev/github-readme-stats)
 
 
