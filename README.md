@@ -34,6 +34,8 @@ Here are some ideas to get you started:
    <a href="https://www.mysql.com/" target="_blank" rel="noopener"><img align="center" alt="MySql" height="60" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"></a>
    <a href="https://www.microsoft.com/pt-br/sql-server/" target="_blank" rel="noopener"><img align="center" alt="SqlServer" height="40" width="60" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"></a>
    <a href="https://git-scm.com/"><img align="center" alt="Git" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg"></a>
+    <a href="https://www.mongodb.com/" target="_blank" rel="noopener"><img align="center" alt="Mongodb" height="40" width="60" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></a>
+   <a href="https://git-scm.com/"><img align="center" alt="Git" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg"></a>
    <a href="https://github.com/" target="_blank" rel="noopener"><img align="center" alt="GitHub" height="30" width="40" src="https://icongr.am/devicon/github-original-wordmark.svg"></a>
    <a href="https://www.npmjs.com/"><img align="center" alt="NPM" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"></a>
    <a href="https://yarnpkg.com/" target="_blank" rel="noopener"><img align="center" alt="Yarn" height="35" width="35" src="https://cdn.worldvectorlogo.com/logos/yarn.svg"></a>
