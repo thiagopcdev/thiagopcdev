@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagopcdev&layout=compact&langs_count=7&theme=dark">
 </div>
  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagopcdev&count_private=true&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagopcdev&count_private=true&show_icons=true&theme=dark)
 
  
   #### Linguagens e Ferramentas
