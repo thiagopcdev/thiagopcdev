@@ -21,15 +21,9 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagopcdev&layout=compact&langs_count=7&theme=dark">
 </div>
  
- <a href="https://github.com/thiagopcdev/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thiagopcdev&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thiagopcdev&repo=convoychat" />
-</a>
-
- 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagopcdev&count_private=true&show_icons=true&theme=dark)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagopcdev&layout=compact)](https://github.com/thiagopcdev/github-readme-stats)
+
 
  
   #### Linguagens e Ferramentas
