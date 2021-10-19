@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
  <div>
   <a href="https://github.com/thiagopcdev">
-  <img height="168em" src="https://github-readme-stats.vercel.app/api?username=thiagopcdev&count_private=true&show_icons=true&theme=dark">
-  <img height="168em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagopcdev&layout=compact&langs_count=7&theme=dark">
+  <img height="169em" src="https://github-readme-stats.vercel.app/api?username=thiagopcdev&count_private=true&show_icons=true&theme=dark">
+  <img height="169em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagopcdev&layout=compact&langs_count=7&theme=dark">
 </div>
   
   #### Linguagens e Ferramentas
