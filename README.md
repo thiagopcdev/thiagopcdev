@@ -2,7 +2,7 @@
 
 <p style="text-align: justify !important;">
  Since I was a child I've always been fascinated by Technology, my biggest fun was taking my toys apart to understand how everything worked. Today I have a degree in DBA from the Faculty of Technology of the State of São Paulo (Fatec) and I am currently studying web development at Trybe, I have already been certified as a front-end developer and now I am venturing into the wonders of the back-end.
-</p
+</p>
  
 ##
 
