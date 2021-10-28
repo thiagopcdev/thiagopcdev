@@ -1,7 +1,7 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Welcome, I'm Thiago Prado
-
+<p style="text-align: justify;">
 Since I was a child I've always been fascinated by Technology, my biggest fun was taking my toys apart to understand how everything worked. Today I have a degree in DBA from the Faculty of Technology of the State of São Paulo (Fatec) and I am currently studying web development at Trybe, I have already been certified as a front-end developer and now I am venturing into the wonders of the back-end.
-
+</p>
 ##
 <!--
 **thiagopcdev/thiagopcdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
