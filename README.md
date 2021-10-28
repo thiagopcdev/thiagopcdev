@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- <div sytle="display: flex">
-  <a href="https://github.com/thiagopcdev">
+ <div>
+  <a sytle="display:flex;" href="https://github.com/thiagopcdev">
   <img width="100%" src="https://github-readme-stats.vercel.app/api?username=thiagopcdev&count_private=true&show_icons=true&theme=react">
   <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagopcdev&layout=compact&langs_count=7&theme=react">
 </div>
