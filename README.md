@@ -28,7 +28,7 @@ Here are some ideas to get you started:
  
 ##
 
-  #### Linguagens e Ferramentas
+  #### Skills ​​and Tools
   
 <div style="display: inline_block">
    <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank" rel="noopener"><img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a>
