@@ -44,7 +44,7 @@ Here are some ideas to get you started:
    <a href="https://git-scm.com/"><img align="center" alt="Git" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg"></a>
    <a href="https://github.com/" target="_blank" rel="noopener"><img align="center" alt="GitHub" height="30" width="40" src="https://icongr.am/devicon/github-original-wordmark.svg"></a>
    <a href="https://www.npmjs.com/"><img align="center" alt="NPM" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"></a>
-   <a href="https://yarnpkg.com/" target="_blank" rel="noopener"><img align="center" alt="Yarn" height="35" width="35" src="https://cdn.worldvectorlogo.com/logos/yarn.svg"></a>
+   <a href="https://yarnpkg.com/" target="_blank" rel="noopener"><img align="center" alt="Yarn" height="35" width="35" src="https://cdn.worldvectorlogo.com/logos/yarn.svg"></a><br>
    <a href="https://nodejs.org/en/" target="_blank" rel="noopener"><img align="center" alt="Yarn" height="35" width="100" src="https://symbols.getvecta.com/stencil_89/63_nodejs.e50c76e343.svg"></a>
    <a href="https://expressjs.com/pt-br/" target="_blank" rel="noopener"><img align="center" alt="Yarn" height="35" width="100" src="https://symbols.getvecta.com/stencil_79/87_expressjs.98a8557541.svg"></a>
    <a href="https://sequelize.org/" target="_blank" rel="noopener"><img align="center" alt="Yarn" height="35" width="100" src="https://symbols.getvecta.com/stencil_95/66_sequelize.baee41c070.svg"></a>
