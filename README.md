@@ -37,7 +37,7 @@ Here are some ideas to get you started:
   <a href="https://redux.js.org/" target="_blank" rel="noopener"><img align="center" alt="Redux" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/redux.svg"></a>
  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank" rel="noopener"> <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank" rel="noopener"><img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>
- <a href="https://jestjs.io/" target="_blank" rel="noopener"><img align="center" alt="Jest" width="25" src="https://symbols.getvecta.com/stencil_85/20_jest-icon.a8fdca0c23.svg"></a>
+ <a href="https://jestjs.io/" target="_blank" rel="noopener"><img align="center" alt="Jest" width="25" src="https://symbols.getvecta.com/stencil_85/20_jest-icon.aff64ab210.svg"></a>
    <a href="https://www.mysql.com/" target="_blank" rel="noopener"><img align="center" alt="MySql" height="60" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"></a>
    <a href="https://www.microsoft.com/pt-br/sql-server/" target="_blank" rel="noopener"><img align="center" alt="SqlServer" height="40" width="60" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"></a>
     <a href="https://www.mongodb.com/" target="_blank" rel="noopener"><img align="center" alt="Mongodb" height="50" width="100" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></a>
