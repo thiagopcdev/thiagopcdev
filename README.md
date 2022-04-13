@@ -48,8 +48,8 @@ Here are some ideas to get you started:
    <a href="https://nodejs.org/en/" target="_blank" rel="noopener"><img align="center" alt="Node.JS" height="35" width="70" src="https://symbols.getvecta.com/stencil_89/63_nodejs.e50c76e343.svg"></a>
    <a href="https://expressjs.com/pt-br/" target="_blank" rel="noopener"><img align="center" alt="Express.JS" height="35" width="70" src="https://symbols.getvecta.com/stencil_79/87_expressjs.98a8557541.svg"></a>
    <a href="https://sequelize.org/" target="_blank" rel="noopener"><img align="center" alt="Sequelize" height="35" width="70" src="https://symbols.getvecta.com/stencil_95/66_sequelize.baee41c070.svg"></a>
-   <a href="https://sequelize.org/" target="_blank" rel="noopener"><img align="center" alt="Heroku" height="35" width="70" src="https://symbols.getvecta.com/stencil_95/66_sequelize.baee41c070.svg"></a>
-    <a href="https://www.heroku.com/" target="_blank" rel="noopener"><img align="center" alt="Python" height="35" width="35" src="https://symbols.getvecta.com/stencil_83/37_heroku.7e096103e1.svg"></a>
+   <a href="https://sequelize.org/" target="_blank" rel="noopener"><img align="center" alt="Heroku" height="35" width="70" src="https://symbols.getvecta.com/stencil_83/37_heroku.7e096103e1.svg"></a>
+    <a href="https://www.heroku.com/" target="_blank" rel="noopener"><img align="center" alt="Python" height="35" width="35" src="https://symbols.getvecta.com/stencil_92/75_python-vertical.89957e9945.svg"></a>
  <!-- <img align="center" alt="NodeJS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"> -->
 </div>
 <div>
