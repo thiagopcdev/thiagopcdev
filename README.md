@@ -1,6 +1,6 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Welcome, I'm Thiago Prado
 
- Since I was a child I've always been fascinated by Technology, my biggest fun was taking my toys apart to understand how everything worked. Today I have a degree in DBA from the Faculty of Technology of the State of São Paulo (Fatec) and I am currently studying web development at Trybe, I have already been certified as a front-end developer and now I am venturing into the wonders of the back-end. :brazil: :rocket:
+ Since I was a child I have always been fascinated by Technology, my biggest fun was taking my toys apart to understand how everything works. Today I have a degree in DBA (Database Administrator) from the Faculty of Technology of the State of São Paulo (Fatec) and I recently completed the full stack web developer course at Trybe. I am certified as a front-end and back-end developer and among my favorite stacks I would like to highlight TypeScript which I have a special affection for. :brazil: :rocket:
  
 ##
 
